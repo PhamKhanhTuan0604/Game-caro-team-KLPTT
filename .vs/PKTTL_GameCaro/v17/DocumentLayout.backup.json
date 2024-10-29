@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E083A7FC-FED1-408D-98D6-28CAB7BE3A74}|PKTTL_GameCaro\\PKTTL_GameCaro.csproj|D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\pkttl_gamecaro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E083A7FC-FED1-408D-98D6-28CAB7BE3A74}|PKTTL_GameCaro\\PKTTL_GameCaro.csproj|solutionrelative:pkttl_gamecaro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E083A7FC-FED1-408D-98D6-28CAB7BE3A74}|PKTTL_GameCaro\\PKTTL_GameCaro.csproj|D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\pkttl_gamecaro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E083A7FC-FED1-408D-98D6-28CAB7BE3A74}|PKTTL_GameCaro\\PKTTL_GameCaro.csproj|solutionrelative:pkttl_gamecaro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E083A7FC-FED1-408D-98D6-28CAB7BE3A74}|PKTTL_GameCaro\\PKTTL_GameCaro.csproj|D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\pkttl_gamecaro\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E083A7FC-FED1-408D-98D6-28CAB7BE3A74}|PKTTL_GameCaro\\PKTTL_GameCaro.csproj|solutionrelative:pkttl_gamecaro\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E083A7FC-FED1-408D-98D6-28CAB7BE3A74}|PKTTL_GameCaro\\PKTTL_GameCaro.csproj|D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\pkttl_gamecaro\\cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E083A7FC-FED1-408D-98D6-28CAB7BE3A74}|PKTTL_GameCaro\\PKTTL_GameCaro.csproj|solutionrelative:pkttl_gamecaro\\cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E083A7FC-FED1-408D-98D6-28CAB7BE3A74}|PKTTL_GameCaro\\PKTTL_GameCaro.csproj|d:\\2024_2025_1st\\winlt\\baitapmon\\pkttl_gamecaro\\pkttl_gamecaro\\playinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E083A7FC-FED1-408D-98D6-28CAB7BE3A74}|PKTTL_GameCaro\\PKTTL_GameCaro.csproj|solutionrelative:pkttl_gamecaro\\playinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E083A7FC-FED1-408D-98D6-28CAB7BE3A74}|PKTTL_GameCaro\\PKTTL_GameCaro.csproj|D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\pkttl_gamecaro\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E083A7FC-FED1-408D-98D6-28CAB7BE3A74}|PKTTL_GameCaro\\PKTTL_GameCaro.csproj|solutionrelative:pkttl_gamecaro\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 143,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayInfo.cs",
+              "DocumentMoniker": "D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\PKTTL_GameCaro\\PlayInfo.cs",
+              "RelativeDocumentMoniker": "PKTTL_GameCaro\\PlayInfo.cs",
+              "ToolTip": "D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\PKTTL_GameCaro\\PlayInfo.cs",
+              "RelativeToolTip": "PKTTL_GameCaro\\PlayInfo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:31:40.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\PKTTL_GameCaro\\Player.cs",
+              "RelativeDocumentMoniker": "PKTTL_GameCaro\\Player.cs",
+              "ToolTip": "D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\PKTTL_GameCaro\\Player.cs",
+              "RelativeToolTip": "PKTTL_GameCaro\\Player.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:23:44.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChessBoardManager.cs",
+              "DocumentMoniker": "D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\PKTTL_GameCaro\\ChessBoardManager.cs",
+              "RelativeDocumentMoniker": "PKTTL_GameCaro\\ChessBoardManager.cs",
+              "ToolTip": "D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\PKTTL_GameCaro\\ChessBoardManager.cs",
+              "RelativeToolTip": "PKTTL_GameCaro\\ChessBoardManager.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAYwI4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:57:59.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cons.cs",
+              "DocumentMoniker": "D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\PKTTL_GameCaro\\cons.cs",
+              "RelativeDocumentMoniker": "PKTTL_GameCaro\\cons.cs",
+              "ToolTip": "D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\PKTTL_GameCaro\\cons.cs",
+              "RelativeToolTip": "PKTTL_GameCaro\\cons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:35:57.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\PKTTL_GameCaro\\Form1.cs",
+              "RelativeDocumentMoniker": "PKTTL_GameCaro\\Form1.cs",
+              "ToolTip": "D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\PKTTL_GameCaro\\Form1.cs*",
+              "RelativeToolTip": "PKTTL_GameCaro\\Form1.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA1wFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:09:05.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\PKTTL_GameCaro\\Form1.cs",
+              "RelativeDocumentMoniker": "PKTTL_GameCaro\\Form1.cs",
+              "ToolTip": "D:\\2024_2025_1st\\WinLT\\BaiTapMon\\PKTTL_GameCaro\\PKTTL_GameCaro\\Form1.cs [Design]*",
+              "RelativeToolTip": "PKTTL_GameCaro\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:16:54.05Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
